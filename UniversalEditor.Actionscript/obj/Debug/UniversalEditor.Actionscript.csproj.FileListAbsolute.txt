@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Actionscript.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Actionscript.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Actionscript.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Actionscript.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Actionscript.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Actionscript.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.pdb

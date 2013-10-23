@@ -1,0 +1,11 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\WinForms.Utils.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\WinForms.Utils.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\WinForms.Utils\obj\Debug\WinForms.Utils.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\WinForms.Utils\obj\Debug\WinForms.Utils.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\WinForms.Utils.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\WinForms.Utils.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\GitHub\Debug\WinForms.Utils.dll
+C:\Users\User\Documents\GitHub\Debug\WinForms.Utils.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\WinForms.Utils\obj\Debug\WinForms.Utils.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\WinForms.Utils\obj\Debug\WinForms.Utils.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\WinForms.Utils\obj\Debug\WinForms.Utils.pdb

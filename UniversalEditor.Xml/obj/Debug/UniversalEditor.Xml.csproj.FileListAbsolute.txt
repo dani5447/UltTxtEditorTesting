@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Xml.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Xml.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Xml.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Xml.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Xml.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Xml.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Xml\obj\Debug\UniversalEditor.Xml.pdb

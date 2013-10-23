@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="UniversalEditor.PlainImage.ImageViewerPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:plainImage="clr-namespace:UniversalEditor.PlainImage"
+             mc:Ignorable="d" Background="LightGray"
+             d:DesignHeight="300" d:DesignWidth="300">
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="*"/>
+		</Grid.ColumnDefinitions>
+		
+		<StackPanel Orientation="Vertical" VerticalAlignment="Stretch">
+			<Button ToolTip="Crop" Command="{Binding ElementName=viewer, Path=CropCommand}">
+				<Image Margin="3">
+					<Image.Source>
+						<BitmapImage UriSource="/UniversalEditor.PlainImage;component/Resources/crop.png" />
+					</Image.Source>
+				</Image>
+			</Button>
+		</StackPanel>
+		
+		<plainImage:ImageViewer x:Name="viewer" FileSource="{Binding File}" Grid.Column="1"/>
+	</Grid>
+</UserControl>

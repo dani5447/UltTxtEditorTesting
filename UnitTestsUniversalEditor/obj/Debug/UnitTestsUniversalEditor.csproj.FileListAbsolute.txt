@@ -1,0 +1,5 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UnitTestsUniversalEditor\bin\Debug\UnitTestsUniversalEditor.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UnitTestsUniversalEditor\bin\Debug\UnitTestsUniversalEditor.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UnitTestsUniversalEditor\obj\Debug\UnitTestsUniversalEditor.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UnitTestsUniversalEditor\obj\Debug\UnitTestsUniversalEditor.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UnitTestsUniversalEditor\obj\Debug\UnitTestsUniversalEditor.pdb

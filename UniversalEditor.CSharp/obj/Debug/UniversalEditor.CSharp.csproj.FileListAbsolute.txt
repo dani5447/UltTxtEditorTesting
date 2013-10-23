@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.CSharp.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.CSharp.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.CSharp.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.CSharp.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.CSharp.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.CSharp.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Nsis.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Nsis.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Nsis.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Nsis.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Nsis.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Nsis.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.pdb

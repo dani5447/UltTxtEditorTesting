@@ -1,0 +1,12 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Pdf.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Pdf.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Pdf.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Pdf.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Pdf.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Pdf.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.pdb

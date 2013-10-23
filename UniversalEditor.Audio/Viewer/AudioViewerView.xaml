@@ -1,0 +1,92 @@
+﻿<UserControl x:Class="UniversalEditor.Audio.Viewer.AudioViewerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             KeyDown="OnKeyDown" Background="Transparent">
+	
+	<UserControl.Resources>
+		<ControlTemplate x:Key="volume-up">
+			<Image>
+				<Image.Source>
+					<BitmapImage  UriSource="/UniversalEditor.Audio;component/Resources/volume-up.png" />
+				</Image.Source>
+			</Image>
+		</ControlTemplate>
+		<ControlTemplate x:Key="volume-off">
+			<Image>
+				<Image.Source>
+					<BitmapImage  UriSource="/UniversalEditor.Audio;component/Resources/volume-off.png" />
+				</Image.Source>
+			</Image>
+		</ControlTemplate>
+	</UserControl.Resources>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="*"/>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="Auto"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+
+		<Grid Grid.ColumnSpan="7" Background="White" x:Name="border" MouseUp="OnMouseUp">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="*"/>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="*"/>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="*"/>
+			</Grid.RowDefinitions>
+			<Image x:Name="mediaBorder" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1" Canvas.ZIndex="-10" Stretch="None">
+				<Image.Source>
+					<BitmapImage UriSource="/UniversalEditor.Audio;component/Resources/title.png" />
+				</Image.Source>
+			</Image>
+		</Grid>
+
+		<Rectangle Grid.Row="1" Grid.RowSpan="3" Grid.ColumnSpan="7" x:Name="tempRect"/>
+
+		<Slider x:Name="progress" Grid.Row="1" Grid.ColumnSpan="5" ValueChanged="OnProgressChanged" Margin="5,0,5,0" VerticalAlignment="Center" 
+				IsMoveToPointEnabled="True" KeyDown="OnKeyDown" IsEnabled="False"/>
+
+		<Slider Grid.Row="1" Grid.Column="6" x:Name="volume" Minimum="-10000" IsMoveToPointEnabled="True" Maximum="0" Width="100" ValueChanged="OnVolumeChanged" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,0,5,0" Grid.ColumnSpan="2"/>
+		<Label Grid.Row="3" Grid.Column="5" x:Name="time" VerticalAlignment="Center" Content=""  Margin="5" Grid.ColumnSpan="2" HorizontalAlignment="Right"/>
+
+		<Button Grid.Row="1" Grid.Column="5" Click="OnSoundClick" x:Name="volumeImage" Template="{StaticResource ResourceKey=volume-up}"/>
+
+		<StackPanel Grid.Row="2" Grid.ColumnSpan="6" Orientation="Horizontal">
+			<Button ToolTip="Play" Click="OnPlayClick" Margin="5">
+				<Image>
+					<Image.Source>
+						<BitmapImage UriSource="/UniversalEditor.Audio;component/Resources/play.png" />
+					</Image.Source>
+				</Image>
+			</Button>
+			<Button ToolTip="Pause" Click="OnPauseClick" Margin="5">
+				<Image>
+					<Image.Source>
+						<BitmapImage UriSource="/UniversalEditor.Audio;component/Resources/pause.png" />
+					</Image.Source>
+				</Image>
+			</Button>
+			<Button ToolTip="Stop" Click="OnStopClick" Margin="5">
+				<Image>
+					<Image.Source>
+						<BitmapImage UriSource="/UniversalEditor.Audio;component/Resources/stop.png" />
+					</Image.Source>
+				</Image>
+			</Button>
+
+		</StackPanel>
+
+	</Grid>
+</UserControl>

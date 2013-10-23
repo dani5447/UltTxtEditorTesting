@@ -1,0 +1,12 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Icon.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Icon.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Icon.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Icon.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Icon.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Icon.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.pdb

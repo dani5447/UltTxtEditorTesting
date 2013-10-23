@@ -1,0 +1,33 @@
+﻿<Window x:Class="UniversalEditor.OptionsModule.OptionsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:optionsModule="clr-namespace:UniversalEditor.OptionsModule"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        mc:Ignorable="d"
+        d:DataContext="{x:Static optionsModule:OptionsViewModel.Designer}"
+        Title="Options" Height="300" Width="538" WindowStartupLocation="CenterOwner" >
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="4" HorizontalAlignment="Right" Orientation="Horizontal" Grid.Column="1">
+            <Button Content="Save" MinWidth="75" Margin="2" Command="{Binding SaveCommand}" IsCancel="True" Click="ButtonBase_OnClick"/>
+            <Button Content="Cancel" MinWidth="75" Margin="2" IsCancel="True"/>
+        </StackPanel>
+
+		<CheckBox Grid.Row="0" Margin="2" Content="Check for update on startup" IsChecked="{Binding CheckUpdate, UpdateSourceTrigger=PropertyChanged}"/>
+		<CheckBox Grid.Row="1" Margin="2" Content="Show Line Numbers" IsChecked="{Binding ShowLineNumbers, UpdateSourceTrigger=PropertyChanged}"/>
+
+    </Grid>
+</Window>

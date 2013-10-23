@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<project name="ufe" default="build" basedir=".">
+
+	<property name="MSBuild.exe" value="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe" />
+	<property name="solution.path" value="${path::get-full-path('..\..\UniversalEditor.sln')}" />
+
+	<target name="build">
+		<exec program="${MSBuild.exe}">
+			<arg value="${solution.path}" />
+			<arg value="/t:rebuild" />
+			<arg value="/p:Configuration=Debug" />
+			<arg value="/v:m" />
+		</exec>
+	</target>
+
+	<target name="make.install" description="compiles the source code">
+
+		<property name="install.output" value="${path::get-full-path('..\output')}" />
+		<property name="compilation.output" value="${path::get-full-path('..\compilation.output')}" />
+
+		<delete dir="${install.output}" />
+		<delete dir="${compilation.output}" />
+
+		<mkdir dir="${install.output}" />
+		<mkdir dir="${compilation.output}" />
+
+		<exec program="${MSBuild.exe}">
+			<arg value="${solution.path}" />
+			<arg value="/t:rebuild" />
+			<arg value="/p:Configuration=Release;OutDir=${compilation.output}" />
+			<arg value="/v:m" />
+		</exec>
+
+		<echo file="version.nsh" append="false" message="!define VERSION ${assemblyname::get-version(assemblyname::get-assembly-name(path::combine(compilation.output, 'UniversalEditor.exe')))}" />
+		<exec program="C:\Program Files (x86)\NSIS\makensis.exe">
+			<arg value="setup.nsi" />
+		</exec>
+		<copy file="setup.exe" tofile="${install.output}\setup.exe" />
+
+		<delete file="setup.exe" />
+		<delete file="version.nsh" />
+
+		<zip zipfile="${install.output}\UniversalFileEditor.zip">
+			<fileset basedir="${compilation.output}">
+				<include name="*.dll" />
+				<include name="*.exe" />
+				<include name="*.config" />
+				<exclude name="*.vshost.exe*" />
+			</fileset>
+		</zip>
+
+		<delete dir="${compilation.output}" />
+	</target>
+</project>

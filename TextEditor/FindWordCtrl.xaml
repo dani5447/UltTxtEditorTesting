@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="TextEditor.FindWordCtrl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:options="clr-namespace:UniversalEditor.Base.Options;assembly=UniversalEditor.Base"
+             mc:Ignorable="d" Width="250" BorderBrush="{x:Static SystemColors.ControlDarkBrush}" BorderThickness="1,0,0,0">
+    <Grid Background="{x:Static SystemColors.ControlBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition />
+			<RowDefinition />
+			<RowDefinition />
+			<RowDefinition />
+		</Grid.RowDefinitions>
+
+       <Button Grid.Column="1" Margin="2" Click="OnFindClick" IsTabStop="False" Cursor="{x:Static Cursors.Hand}" ToolTip="Find">
+			<Button.Template>
+				<ControlTemplate>
+					<Grid>
+						<Rectangle Fill="Transparent"/>
+						<Image Width="16">
+							<Image.Source>
+								<BitmapImage UriSource="/TextEditor;component/Resources/step-forward.png" />
+							</Image.Source>
+						</Image>
+					</Grid>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+		<Button Grid.Column="2" Content="X" Click="OnHide" Width="15" Height="15" IsTabStop="False" Margin="4,0,4,0">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <Rectangle Fill="Transparent" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                        <Path Stretch="Fill" Fill="Black" Data="M50,0C22.388,0,0,22.388,0,50c0,27.611,22.388,50,50,50c27.611,0,50-22.389,50-50C100,22.388,77.611,0,50,0z M74.73,65.895	l-8.838,8.838L50,58.838L34.106,74.73l-8.838-8.838L41.162,50L25.269,34.106l8.838-8.838L50,41.162l15.895-15.894l8.838,8.838 	L58.838,50L74.73,65.895z"
+                              Cursor="{x:Static Cursors.Hand}" ToolTip="Hide panel"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBox x:Name="txtWord" Height="23" Margin="2" VerticalAlignment="Center" PreviewKeyDown="TxtNumber_OnPreviewKeyDown" VerticalContentAlignment="Center" TabIndex="0" IsTabStop="True" Focusable="True"
+                 FocusManager.IsFocusScope="True" TextChanged="OnTextChanged"/>
+		
+        <TextBox x:Name="txtReplace" Grid.Row="1" Height="23" Margin="2" VerticalAlignment="Center" PreviewKeyDown="TxtNumber_OnPreviewKeyDown" VerticalContentAlignment="Center" TabIndex="0" IsTabStop="True" Focusable="True"/>
+		<Button x:Name="btnReplace" Grid.Column="1" Grid.Row="1" Margin="2" Click="OnReplaceClick" IsTabStop="False" ToolTip="Replace"  Cursor="{x:Static Cursors.Hand}">
+			<Button.Template>
+				<ControlTemplate>
+					<Grid>
+						<Rectangle Fill="Transparent"/>
+						<Image Width="16">
+							<Image.Source>
+								<BitmapImage UriSource="/TextEditor;component/Resources/step-forward.png" />
+							</Image.Source>
+						</Image>
+					</Grid>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+		<Button x:Name="btnReplaceAll" Grid.Column="2" Grid.Row="1" Margin="2" Click="OnReplaceAllClick" IsTabStop="False" ToolTip="Replace All"  Cursor="{x:Static Cursors.Hand}">
+			<Button.Template>
+				<ControlTemplate>
+					<Grid>
+						<Rectangle Fill="Transparent"/>
+						<Image Width="16">
+							<Image.Source>
+								<BitmapImage UriSource="/TextEditor;component/Resources/fast-forward.png" />
+							</Image.Source>
+						</Image>
+					</Grid>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+
+		<CheckBox Content="Strong search" Margin="2" Grid.Row="2" Grid.ColumnSpan="3" DataContext="{x:Static options:Options.Instance}" IsChecked="{Binding IsStrongSearch, Mode=OneTime}" Checked="ToggleButton_OnChecked" Unchecked="ToggleButton_OnUnchecked"/>
+
+		<Rectangle Grid.ColumnSpan="3" Grid.Row="3" Fill="DodgerBlue" Height="2"/>
+		
+    </Grid>
+</UserControl>

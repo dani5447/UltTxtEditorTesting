@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Java.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Java.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Java.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Java.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Java.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Java.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.pdb

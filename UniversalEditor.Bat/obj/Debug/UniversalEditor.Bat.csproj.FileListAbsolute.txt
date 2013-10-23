@@ -1,0 +1,16 @@
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Bat.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Bat.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.Properties.Resources.resources
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csproj.GenerateResource.Cache
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.dll
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.pdb
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Bat.dll.CodeAnalysisLog.xml
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\Debug\UniversalEditor.Bat.dll.lastcodeanalysissucceeded
+C:\Users\User\Documents\currentRITClasses\SWTesting\universalfileeditor-28322\branches\work\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Bat.dll
+C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Bat.pdb
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.dll
+C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.pdb
