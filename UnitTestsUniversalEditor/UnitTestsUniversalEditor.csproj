@@ -41,6 +41,7 @@
     <Reference Include="System.Windows" />
     <Reference Include="System.Windows.Controls.Ribbon" />
     <Reference Include="System.Xaml" />
+    <Reference Include="System.XML" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="WindowsBase" />
   </ItemGroup>
@@ -57,7 +58,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="UnitTest_UfeTextBox.cs" />
+    <Compile Include="UnitTest_UfeTextBoxInner.cs" />
+    <Compile Include="UnitTest_UfeTextDocument.cs" />
     <Compile Include="UnitTest_FileWrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

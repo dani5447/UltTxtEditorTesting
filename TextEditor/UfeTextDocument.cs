@@ -43,7 +43,15 @@ namespace TextEditor
 			_file.FileDeleted += OnFileDeleted;
 		}
 
-		internal string FilePath
+        /*
+         * returns the file path for unit testing purposes
+         */
+        public string GetFilePath()
+        {
+            return _file.FileSource;
+        }
+
+		public string FilePath
 		{
 			get { return _file.FilePath; }
 		}
