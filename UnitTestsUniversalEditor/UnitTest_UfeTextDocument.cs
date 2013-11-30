@@ -47,13 +47,32 @@ namespace UnitTestsUniversalEditor
         {
             Assert.IsNotNull(document);
             Assert.IsTrue(document.IsNewFile);
+            Assert.AreEqual("C:/Users/User/Desktop/test.txt", document.GetFilePath());
+        }
+
+        [TestMethod]
+        public void TestGetLineText()
+        {
             Assert.AreEqual("abcdefg", document.GetLineText(0));
         }
 
         [TestMethod]
-        public void Test()
+        public void TestInsertLine()
         {
-            Assert.IsTrue(true);
+            document.InsertLine(1);
+            document.SetText(1, "hello");
+            Assert.AreEqual(5, document.GetLineLength(1));
         }
+
+        [TestMethod]
+        public void TestRemoveLine()
+        {
+            document.InsertLine(1);
+            document.SetText(1, "hello");
+            document.RemoveLine(1);
+            //the only remaining line is the first line with the "abcdefg"
+            Assert.AreEqual(1, document.LineCount); 
+        }
+
     }
 }
