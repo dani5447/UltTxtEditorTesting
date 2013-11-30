@@ -35,7 +35,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Controls.Ribbon" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <Choose>
     <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
@@ -51,7 +58,50 @@
   </Choose>
   <ItemGroup>
     <Compile Include="UnitTest1.cs" />
+    <Compile Include="UnitTest_FileWrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TextEditor.ScriptHighlight\TextEditor.ScriptHighlight.csproj">
+      <Project>{1239f158-d05e-4f7a-a9f5-69ce1693da61}</Project>
+      <Name>TextEditor.ScriptHighlight</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TextEditor\TextEditor.csproj">
+      <Project>{2640fa97-53b3-4de6-b1c4-df229ff8b389}</Project>
+      <Name>TextEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.Base\UniversalEditor.Base.csproj">
+      <Project>{0466ccee-b2f4-49e2-8426-510901dcf9e3}</Project>
+      <Name>UniversalEditor.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.Java\UniversalEditor.Java.csproj">
+      <Project>{98a3e1b9-155e-4772-a0dd-54a4b23bcc53}</Project>
+      <Name>UniversalEditor.Java</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.OpenXml\UniversalEditor.OpenXml.csproj">
+      <Project>{1efaa89a-0abf-4877-b230-8adc22e0c2a5}</Project>
+      <Name>UniversalEditor.OpenXml</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.Pdf\UniversalEditor.Pdf.csproj">
+      <Project>{40d50882-8017-47e8-b4a0-d71889228de5}</Project>
+      <Name>UniversalEditor.Pdf</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.PlainText\UniversalEditor.PlainText.csproj">
+      <Project>{ec8f02b3-b8f2-46d2-9409-9629052cd300}</Project>
+      <Name>UniversalEditor.PlainText</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor.Xml\UniversalEditor.Xml.csproj">
+      <Project>{6b976fd6-a7eb-48db-a8d8-f72d1dcb1431}</Project>
+      <Name>UniversalEditor.Xml</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniversalEditor\UniversalEditor.csproj">
+      <Project>{dfbaa180-62dd-46c2-ab0d-ef3b59053653}</Project>
+      <Name>UniversalEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinForms.Utils\WinForms.Utils.csproj">
+      <Project>{0f880902-da61-48d2-ba89-93bb7399ca4f}</Project>
+      <Name>WinForms.Utils</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

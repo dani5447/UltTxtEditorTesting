@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Deb
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Bat.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Bat.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Bat\obj\Debug\UniversalEditor.Bat.pdb

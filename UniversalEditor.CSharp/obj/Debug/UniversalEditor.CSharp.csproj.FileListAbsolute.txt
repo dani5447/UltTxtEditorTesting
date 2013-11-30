@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.CSharp.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.CSharp.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.CSharp\obj\Debug\UniversalEditor.CSharp.pdb

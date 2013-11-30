@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscrip
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Actionscript.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Actionscript.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Actionscript\obj\Debug\UniversalEditor.Actionscript.pdb

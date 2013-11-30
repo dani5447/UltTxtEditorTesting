@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\De
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Java.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Java.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Java\obj\Debug\UniversalEditor.Java.pdb

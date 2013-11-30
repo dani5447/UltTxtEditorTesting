@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.pdb
+C:\Program Files\GitHub\Debug\TextEditor.ScriptHighlight.dll
+C:\Program Files\GitHub\Debug\TextEditor.ScriptHighlight.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor.ScriptHighlight\obj\Debug\TextEditor.ScriptHighlight.pdb

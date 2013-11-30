@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\User\Documents\GitHub\UnivFileEditorTesting\TextEditor\obj\Debug\
+C:\Program Files\GitHub\UnivFileEditorTesting\TextEditor\obj\Debug\
 TextEditor
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 6-2138771174
 
 15-1878710710
-14441283523
+14-1263274515
 DocumentDeletedCtrl.xaml;DocumentChangedCtrl.xaml;FindWordCtrl.xaml;FindLineCtrl.xaml;ReadonlyCtrl.xaml;UfePopup.xaml;
 
 False

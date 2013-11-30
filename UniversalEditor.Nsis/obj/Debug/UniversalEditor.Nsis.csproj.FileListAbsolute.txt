@@ -14,3 +14,10 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\De
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Nsis.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Nsis.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Nsis\obj\Debug\UniversalEditor.Nsis.pdb
