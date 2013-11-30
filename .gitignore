@@ -1,8 +1,8 @@
 #################
 ## Eclipse
 #################
-.dll
-
+*.dll
+*.pdb
 *.pydevproject
 .project
 .metadata
