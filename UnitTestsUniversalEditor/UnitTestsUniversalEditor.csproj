@@ -58,6 +58,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="UnitTest_JavaEditor.cs" />
     <Compile Include="UnitTest_UfeTextBox.cs" />
     <Compile Include="UnitTest_UfeTextBoxInner.cs" />
     <Compile Include="UnitTest_UfeTextDocument.cs" />

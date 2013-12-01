@@ -10,3 +10,8 @@ C:\Users\User\Documents\GitHub\Debug\UniversalEditor.OpenXml.pdb
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.OpenXml.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.OpenXml.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.OpenXml\obj\Debug\UniversalEditor.OpenXml.pdb

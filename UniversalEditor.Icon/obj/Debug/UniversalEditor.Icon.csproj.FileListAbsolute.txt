@@ -10,3 +10,8 @@ C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Icon.pdb
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Icon.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Icon.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Icon\obj\Debug\UniversalEditor.Icon.pdb

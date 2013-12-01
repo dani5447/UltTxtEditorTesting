@@ -58,6 +58,7 @@ namespace TextEditor
 
 		public UfeTextBox(IEditorOwner owner, UfeTextDocument doc)
 		{
+            //MessageBox.Show("The owner is " + owner.ToString());
 			if (owner == null) 
 				throw new ArgumentNullException("owner");
 

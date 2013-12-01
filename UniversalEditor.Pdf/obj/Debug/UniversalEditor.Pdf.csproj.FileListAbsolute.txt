@@ -10,3 +10,8 @@ C:\Users\User\Documents\GitHub\Debug\UniversalEditor.Pdf.pdb
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Pdf.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Pdf.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Pdf\obj\Debug\UniversalEditor.Pdf.pdb

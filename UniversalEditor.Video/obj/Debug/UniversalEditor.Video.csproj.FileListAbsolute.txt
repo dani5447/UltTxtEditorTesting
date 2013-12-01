@@ -22,3 +22,14 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\D
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Video.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Video.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\Viewer\VideoViewerView.baml
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\Viewer\VideoViewerView.g.cs
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video_MarkupCompile.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.g.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Video\obj\Debug\UniversalEditor.Video.pdb

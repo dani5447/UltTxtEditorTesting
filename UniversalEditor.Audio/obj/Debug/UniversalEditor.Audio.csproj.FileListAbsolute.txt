@@ -22,3 +22,14 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\D
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.pdb
+C:\Program Files\GitHub\Debug\UniversalEditor.Audio.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Audio.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\Viewer\AudioViewerView.baml
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\Viewer\AudioViewerView.g.cs
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio_MarkupCompile.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.g.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.Properties.Resources.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.csproj.GenerateResource.Cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.dll
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Audio\obj\Debug\UniversalEditor.Audio.pdb

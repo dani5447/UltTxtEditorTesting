@@ -19,3 +19,13 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\De
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.g.resources
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.csprojResolveAssemblyReference.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\Utils\LoggerModule\Logger.g.cs
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base_MarkupCompile.cache
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base_MarkupCompile.lref
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Base.dll
+C:\Program Files\GitHub\Debug\UniversalEditor.Base.pdb
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\Utils\LoggerModule\Logger.baml
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.g.resources
+C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Base\obj\Debug\UniversalEditor.Base.pdb
