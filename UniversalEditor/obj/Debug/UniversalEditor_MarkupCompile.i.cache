@@ -16,5 +16,5 @@ C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor\App.xaml
 321718775880
 MainWindow.xaml;Modules\NewFileModule\NewFileView.xaml;Modules\OpenedTabModule\OpenedTabView.xaml;Modules\OpenRelativeFileModule\OpenRelativeFileView.xaml;Modules\TabSwitchModule\TabSwitchView.xaml;OptionsModule\OptionsView.xaml;
 
-False
+True
 

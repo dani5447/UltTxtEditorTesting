@@ -55,10 +55,8 @@ namespace UnitTestsUniversalEditor
             file = new FileWrapper("C:/Users/User/Desktop/test.txt", true);
             doc = new UfeTextDocument(file, arg);
             textBox = new UfeTextBox(owner, doc);
-            //owner = 
-            //the owner is UniversalFileEditor.DomainModel, but it's an internal class that we
-            //can't instantiate...
-            //innerTextBox = new UfeTextBoxInner(textBox, doc, verticalScroll, horizontalScroll, findLineCtrl, findWordCtrl, documentChangedCtrl, documentDeletedCtrl, readonlyCtrl, popup);
+            
+            innerTextBox = new UfeTextBoxInner(textBox, doc, verticalScroll, horizontalScroll, findLineCtrl, findWordCtrl, documentChangedCtrl, documentDeletedCtrl, readonlyCtrl, popup);
 
         }
 

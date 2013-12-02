@@ -26,16 +26,3 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.csproj.GenerateResource.Cache
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.pdb
-C:\Program Files\GitHub\Debug\UniversalEditor.PlainImage.dll
-C:\Program Files\GitHub\Debug\UniversalEditor.PlainImage.pdb
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.csprojResolveAssemblyReference.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\ImageViewerPanel.g.cs
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage_MarkupCompile.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage_MarkupCompile.lref
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\ImageViewerPanel.baml
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.g.resources
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.Properties.Resources.resources
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.csproj.GenerateResource.Cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.dll
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.PlainImage\obj\Debug\UniversalEditor.PlainImage.pdb

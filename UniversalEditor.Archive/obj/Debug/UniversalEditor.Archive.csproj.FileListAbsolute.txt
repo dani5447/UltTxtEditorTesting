@@ -20,13 +20,3 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.g.resources
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.pdb
-C:\Program Files\GitHub\Debug\UniversalEditor.Archive.dll
-C:\Program Files\GitHub\Debug\UniversalEditor.Archive.pdb
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.csprojResolveAssemblyReference.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\ArchiveView.g.cs
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive_MarkupCompile.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive_MarkupCompile.lref
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\ArchiveView.baml
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.g.resources
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.dll
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Archive\obj\Debug\UniversalEditor.Archive.pdb

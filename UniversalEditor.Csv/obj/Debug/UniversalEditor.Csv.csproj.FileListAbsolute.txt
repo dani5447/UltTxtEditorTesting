@@ -18,12 +18,3 @@ C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Deb
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.g.resources
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.dll
 C:\Users\User\Documents\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.pdb
-C:\Program Files\GitHub\Debug\UniversalEditor.Csv.dll
-C:\Program Files\GitHub\Debug\UniversalEditor.Csv.pdb
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.csprojResolveAssemblyReference.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\TableContainer.baml
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\TableContainer.g.cs
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv_MarkupCompile.cache
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.g.resources
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.dll
-C:\Program Files\GitHub\UnivFileEditorTesting\UniversalEditor.Csv\obj\Debug\UniversalEditor.Csv.pdb
